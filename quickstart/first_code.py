@@ -26,7 +26,7 @@ async def on_message(message):
   # From here, you can add all the rules and the behaviour of the bot.
   # In this case, the bot checks if the content of the message is "Hello!" and send a message if it's true.
   if message.content == 'Hello!':
-    await message.channel.send("Hello! I'm happy to see you around here here.")
+    await message.channel.send("Hello! I'm happy to see you around here.")
     return
 
   if message.content == 'Good bye!':
