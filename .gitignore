@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+# ignore python notebooks
+*.ipynb
+
+# ignore pyache
+__pycache__/
+
+#ignore vscode folder
+.vscode/
+
+
+#ignore excel files
+*.xlsx
+
+=======
+# ignore python notebooks
+*.ipynb
+
+# ignore pyache
+__pycache__/
+
+#ignore vscode folder
+.vscode/
+
+
+#ignore excel files
+*.xlsx
+
+>>>>>>> 278d42dc0046b0fab158d8b2082554bef46673f3
+*check.py
